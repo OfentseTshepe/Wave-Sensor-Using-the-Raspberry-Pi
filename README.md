@@ -11,3 +11,8 @@ Raspberrypi 3+
 Python version 3
 
 RPI.GPIO library
+
+How tow run
+---
+1. Initialize ther server first by running "server.py"
+2. then run wave "sensor.py"
